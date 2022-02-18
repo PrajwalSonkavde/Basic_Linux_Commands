@@ -1,0 +1,27 @@
+To create a file :
+	Vi new_file_name or existing_file_name
+	Press ‘i ’ to insert and 
+
+
+Code to create and save a “sh” program and run it :
+	cd Desktop 
+	cd temp
+	vi set_commands.sh
+to Run :
+	sh set_commands.sh
+
+Code to create and save a c program and run it :
+	cd Desktop
+	cd temp
+	vi prajwal.c
+	“press ‘i’ to insert text and write the following c program
+	gcc prajwal.c -o prajwal
+	./prajwal
+
+
+Code to create and save a “sh” program and run it :
+	cd Desktop
+	cd temp
+	ls
+	vi first_python.py
+	python3 first_python.py
