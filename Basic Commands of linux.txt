@@ -1,0 +1,36 @@
+	Ls
+
+	cd Downloads
+
+	mkdir temp
+
+	rmdir temp
+
+	mkdir temp/1
+
+	mkdir temp/2
+
+	mkdir temp/3
+
+	cp -vr temp add
+
+	cd ..
+
+	vi file.txt
+
+	man man
+
+	touch file.txt
+
+	head file.txt
+
+	tail file.txt
+
+	cat file.txt
+
+	tac file.txt
+
+	who 
+
+	date
+
